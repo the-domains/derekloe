@@ -1,7 +1,7 @@
 name: derekloe
 favicon: null
-layout_spectrum: 0.7255343119613826
-typography_spectrum: 0.35879315505735576
+layout_spectrum: 1
+typography_spectrum: 0.90608
 cta:
   domain: null
   bucket: null
