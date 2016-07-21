@@ -1,19 +1,4 @@
-name: derekloe
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.90608
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fefefe'
@@ -25,4 +10,24 @@ color:
   lightness: 0
   saturation: 0.3125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: derekloe
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: ce177640-89bd-4e7b-904a-16ba7462bdc6
+    url: 2016-03-29-the-world-is-so-technical-nowadays-people-only-see-color.html
+    name: Check
+    type: content
+favicon: null
 purpose: []
