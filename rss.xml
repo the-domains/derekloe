@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[derekloe]]></title>
         <description><![CDATA[derekloe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/derekloe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 18:12:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 18:27:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/derekloe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Formula for Success]]></title>
+            <description><![CDATA[<article><h1>Formula for Success</h1><p>Action x Contribution = Results</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fada2ed-6f0f-4259-a627-792c6a67cc35.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fada2ed-6f0f-4259-a627-792c6a67cc35.jpg</link>
+            <guid isPermaLink="false">f29bd405-5883-4db8-8d62-12370065c6b5</guid>
+            <pubDate>Thu, 21 Jul 2016 18:27:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e072a2b-69fc-4c1a-a5ff-88c68a6b0cd5.jpg">]]></description>
-            <link>undefinedthe-world-is-so-technical-nowadays-people-only-see-color/index.html</link>
+            <link>https://thegrid.ai/derekloe/the-world-is-so-technical-nowadays-people-only-see-color/index.html</link>
             <guid isPermaLink="false">ce177640-89bd-4e7b-904a-16ba7462bdc6</guid>
             <pubDate>Thu, 21 Jul 2016 18:12:01 GMT</pubDate>
         </item>
