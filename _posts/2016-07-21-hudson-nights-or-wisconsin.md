@@ -62,16 +62,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=rZuIcZZVllA'
 title: Hudson Nights | Wisconsin
-datePublished: '2016-07-21T18:28:04.792Z'
-dateModified: '2016-07-21T18:25:05.509Z'
+datePublished: '2016-07-21T18:33:02.321Z'
+dateModified: '2016-07-21T18:33:01.983Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-07-21-hudson-nights-or-wisconsin.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: hudson-nights-or-wisconsin/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
