@@ -29,5 +29,9 @@ navigation:
     url: 2016-03-29-the-world-is-so-technical-nowadays-people-only-see-color.html
     name: Check
     type: content
+  - id: edf701e9-5ff8-45e8-9343-269f8e70deb1
+    url: 2016-07-21-hudson-nights-or-wisconsin.html
+    name: Films
+    type: content
 favicon: null
 purpose: []
